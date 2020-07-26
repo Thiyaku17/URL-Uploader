@@ -1,12 +1,12 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram URL Upload Bot made by @prgofficial
+This is a Telegram URL Upload Bot made by @thiyaku_17
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @moviesonlydiscussion
+Support Group : join : @mc_moviecentral @sc_seriescental
 © @prgofficial"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -18,9 +18,9 @@ URL | filename | username | password"""
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @moviesonlydiscussion"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @moviesonlydiscussion \nUploaded in {} seconds."
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.9GB due to Telegram API limitations."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @mc_moviecentral @sc_seriescental"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @mc_moviecentral @sc_seriescental \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
@@ -46,13 +46,13 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Join For New Movies :</b> 👉 <a href="https://t.me/joinchat/AAAAAEw1pO1bBX6ylAb0hQ">JOIN</a>
+<b>👉 Join For New Movies :</b> 👉 <a href="https://t.me/mc_moviecentral">JOIN</a>
 
 --------
 Send /me to know current plan details
 
-Support Group : @MoviEzoNlysuppOrT
-© @MovieZonlYheRe"""
+Support Group : @mc_moviecentral @sc_seriescentral
+© @thiyaku_17"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
